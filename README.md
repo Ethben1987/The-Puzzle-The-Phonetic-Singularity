@@ -104,3 +104,5 @@ The semantic hint ("Two entities acting as one") points to **ENTANGLEMENT**, but
 
 In Information Theory, an **"Action"** is the fundamental change in a system's state. In Physics, **"Action"** is the attribute of the dynamics of a physical system.
 
+This is a Google Gemini created puzzle, enjoy !!
+
